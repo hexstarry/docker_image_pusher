@@ -84,6 +84,7 @@ amerkurev/doku
 dnsforge/xteve
 adolfintel/speedtest
 jc21/nginx-proxy-manager
+linuxserver/dokuwiki
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
